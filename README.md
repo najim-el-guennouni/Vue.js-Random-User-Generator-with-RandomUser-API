@@ -25,8 +25,6 @@ Create a captivating Random User Generator using Vue.js and the RandomUser API. 
 
 Contributions are welcome! If you find any issues or have ideas for improvement, feel free to open an issue or create a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Let's code something cool together!
